@@ -1,6 +1,7 @@
-# add-text-to-image
+# AddTextToImage PHP class
 
-Add text to images using PHP.
+This AddTextToImage PHP class allows you to add text(s) to images using PHP.
+Can for example be used to add promotional texts to images on the fly.
 
 
 ## Documentation
